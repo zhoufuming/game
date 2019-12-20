@@ -1,0 +1,24 @@
+{
+	"description" : "patch: temporarily removed uncontrollable sound\nA open source html5 game with low memory and cpu usage. (unfinished) Thanks to Baidu JS team.\nView code at https://github.com/ChineseDron/fruit-ninja\n\nComing feature:\n1. add multi-language menu；\n2. fix highest score issues;\n3. add custom background picture;\n4. complete unfinished mode;\n\n开源的html5游戏 极低的内存和cpu占用 （未完成）感谢 Baidu JS 小组\nview code at https://github.com/ChineseDron/fruit-ninja\n即将到来：\n1：加入多语言菜单；\n2：修复最高分数错误；\n3：可定义背景图片；\n4：完成未完成的部分；",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "1 1 1"
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"tags" : [ "Game" ],
+	"title" : "fruit ninja (水果忍者)",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 834931418
+}
